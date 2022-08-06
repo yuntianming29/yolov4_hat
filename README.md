@@ -1,4 +1,4 @@
-## YOLOV4：You Only Look Once目标检测模型在pytorch当中的实现
+## yolov4训练头盔佩戴检测模型，核心来自于bubbliiiing  https://github.com/bubbliiiing/yolov4-pytorch
 ---
 
 ## 目录
